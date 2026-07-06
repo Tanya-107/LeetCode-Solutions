@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
