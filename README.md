@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0050-powx-n) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
