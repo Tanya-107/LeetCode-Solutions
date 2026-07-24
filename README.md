@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Tanya-107/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
